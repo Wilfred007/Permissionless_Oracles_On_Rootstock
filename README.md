@@ -18,16 +18,7 @@
 - [Configuration](#configuration)
 - [Deployment](#deployment)
 - [Running Oracle Nodes](#running-oracle-nodes)
-- [Dashboard](#dashboard)
-- [API Reference](#api-reference)
-- [Testing](#testing)
-- [Monitoring & Maintenance](#monitoring--maintenance)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Security](#security)
-- [Roadmap](#roadmap)
-- [License](#license)
-- [Support](#support)
+
 
 ## 🌟 Overview
 
