@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "npx hardhat compile",
+    "deploy:testnet": "npx hardhat run scripts/deploy.js --network rskTestnet",
+    "stake": "npx hardhat run scripts/stake.js --network rskTestnet",
+    "start-node": "node src/OracleNode.js"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +20,9 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^5.0.0",
-    "web3": "^4.0.0",
-    "node-fetch": "^2.6.7"
+    "dotenv": "^16.5.0",
+    "node-fetch": "^2.7.0",
+    "web3": "^4.16.0",
+    "winston": "^3.17.0"
   }
 }
