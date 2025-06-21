@@ -5,7 +5,7 @@
 ![Solidity](https://img.shields.io/badge/solidity-0.8.14-blue.svg)
 ![Network](https://img.shields.io/badge/network-Rootstock-orange.svg)
 
-> **A production-ready, decentralized oracle system built on Rootstock (RSK) that enables permissionless participation in providing real-world data to smart contracts, secured by Bitcoin's hash power.**
+> **A decentralized oracle system built on Rootstock (RSK) that enables permissionless participation in providing real-world data to smart contracts, secured by Bitcoin's hash power.**
 
 ## 📋 Table of Contents
 
